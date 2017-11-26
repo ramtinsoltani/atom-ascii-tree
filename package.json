@@ -1,10 +1,9 @@
 {
   "name": "ascii-tree",
   "main": "./lib/ascii-tree",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generate ASCII trees with ease!",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "ascii-tree:generate"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
