@@ -3,7 +3,15 @@
   "main": "./lib/ascii-tree",
   "version": "1.0.0",
   "description": "Generate ASCII trees with ease!",
-  "keywords": [],
+  "keywords": [
+    "ascii",
+    "tree",
+    "folder",
+    "directory",
+    "structure",
+    "ascii-tree",
+    "generate"
+  ],
   "activationCommands": {
     "atom-workspace": "ascii-tree:generate"
   },
