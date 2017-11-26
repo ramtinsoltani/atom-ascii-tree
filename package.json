@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "ascii-tree:generate"
   },
-  "repository": "https://github.com/atom/tutorial",
+  "repository": "https://github.com/ramtinsoltani/atom-ascii-tree",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
