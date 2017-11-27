@@ -10,7 +10,9 @@ An Atom package to generate ASCII trees to visualize file/folder structure.
 apm install ascii-tree
 ```
 
-# Usage
+# Commands
+
+## Generate
 
 Write trees using `+--` to create child nodes and plain text to define nodes at root (make sure to use 4 spaces for each child indentation).
 
@@ -45,3 +47,7 @@ root
 │       └── file4
 └── file5
 ```
+
+## Reverse
+
+Select generated trees and press `ctrl-alt-r` to reverse the tree back to the `+--` syntax.

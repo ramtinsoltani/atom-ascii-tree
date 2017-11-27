@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-t": "ascii-tree:generate"
+    "ctrl-alt-t": "ascii-tree:generate",
+    "ctrl-alt-r": "ascii-tree:reverse"
   }
 }

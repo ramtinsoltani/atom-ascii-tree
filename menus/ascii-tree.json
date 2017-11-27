@@ -4,6 +4,10 @@
       {
         "label": "Generate ASCII Tree",
         "command": "ascii-tree:generate"
+      },
+      {
+        "label": "Reverse ASCII Tree",
+        "command": "ascii-tree:reverse"
       }
     ]
   },
@@ -17,6 +21,10 @@
             {
               "label": "Generate",
               "command": "ascii-tree:generate"
+            },
+            {
+              "label": "Reverse",
+              "command": "ascii-tree:reverse"
             }
           ]
         }
